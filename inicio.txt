@@ -1,2 +1,4 @@
-inicio de la carga espero que ande
+inicio de la carga espero que ande.
+se sigue practicando con git y github.
+
 
